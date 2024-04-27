@@ -1,6 +1,6 @@
 {
-  "name": "sf6442-currency-convertor",
-  "version": "1.0.0",
+  "name": "sf1993-currency-convertor",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
